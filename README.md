@@ -5,7 +5,7 @@ Year-wise climate correlation analysis on rice yield in Tamil Nadu &amp; Telanga
 📌 Title: How To Future‑Proof Rice Yields Against Devastating Climate Shocks Now  
 📅 Duration: Mar–May 2025  
 👨‍💻 Author: Pinnaparaju Sivaraj  
-🔗 Published on LinkedIn: [Link to the post once live]  
+🔗 Published on LinkedIn: [https://www.linkedin.com/posts/sivaraj-pinnaparaju-06a489261_climatechange-riceyield-datascience-activity-7328707245972602880-OFe0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBSBRIBy2F60gUaOlsFrrnd4hLhjkm_fNM]  
 🏷️ Tags: Climate Change, Agriculture, Data Science, South India, Resilience AI
 
 
@@ -43,12 +43,6 @@ climate-rice-yield-analysis/
 │   ├── tamilnadu.ipynb
 │   ├── tel_rice.csv
 │   └── teldata.ipynb
-│
-├── images/
-│   ├── title_banner.png
-│   ├── split_infographic.png
-│   └── climate_variability_chart.png
-│
 ├── README.md
 
 🧪 Tools & Libraries
