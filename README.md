@@ -64,7 +64,7 @@ Climate volatility threatens the food security of millions. By uncovering how cl
 
 🤝 Acknowledgements
 
-Thanks to [@Sundeep Reddy Mallu](https://www.linkedin.com/in/sundeeprmallu) and the team at [Resilience AI](https://www.linkedin.com/company/resilienceai) for their mentorship and guidance.
+Thanks to [@Sundeep Reddy Mallu](https://www.linkedin.com/in/sundeeprm/) and the team at [Resilience AI](https://www.linkedin.com/company/resilience360ai/) for their mentorship and guidance.
 
 📬 Connect
 
