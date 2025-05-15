@@ -1,0 +1,281 @@
+Dist Code,Year,State Code,State Name,Dist Name,RICE AREA (1000 ha),RICE PRODUCTION (1000 tons),RICE YIELD (Kg per ha),Precipitation ,Temperature,Wind Speed
+83,1990,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,231.96,743.65,3206,1253.64,27.91,3.34
+83,1991,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,264.41,894.59,3383,1133.2,28.08,3.37
+83,1992,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,237.07,729.92,3079,882.53,27.89,3.24
+83,1993,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,290,883,3045,1391.58,27.7,3.42
+83,1994,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,260.71,850.76,3263,1196.34,27.78,3.35
+83,1995,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,252.33,765.19,3032,1227.66,27.27,3.07
+83,1996,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,155.37,456.72,2940,1732.64,27.51,3.27
+83,1997,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,154.69,505.7,3269,1437.25,28.09,3.12
+83,1998,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,149.88,522.55,3486,1115.79,28.32,3.25
+83,1999,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,144.9,482.6,3331,931.08,27.7,3.22
+83,2000,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,132.86,435.5,3278,1035.18,27.82,3.26
+83,2001,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,135.16,478.94,3544,1253.37,28.15,3.25
+83,2002,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,97.42,278.09,2855,1046.29,28.11,3.18
+83,2003,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,97.12,295.64,3044,895.93,28.22,3.27
+83,2004,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,101.67,307.11,3021,1358.53,27.49,3.19
+83,2005,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,114.72,293.88,2562,1894.66,27.89,3.17
+83,2006,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,103.11,395.13,3832,1236.69,27.8,3.05
+83,2007,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,91.36,345.13,3778,1255.81,27.62,3.06
+83,2008,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,90.87,329.21,3623,1428.04,27.65,2.95
+83,2009,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,91.02,331.43,3641,1165.21,28.21,3.11
+83,2010,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,95.74,378.63,3955,1361.98,27.82,3.02
+83,2011,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,90.42,395.41,4373,1371.22,27.71,3.09
+83,2012,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,77.78,344.88,4434,1004.69,27.97,3.06
+83,2013,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,85.56,391.84,4580,1023.06,27.78,3.22
+83,2014,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,61.88,289.9,4685,1096.01,27.97,3.19
+83,2015,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,97.74,415.3,4249,1961.46,27.85,3.01
+83,2016,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,72.62,288.04,3967,811.36,28.11,3.04
+83,2017,11,Tamil Nadu,Chengalpattu MGR Kancheepuram,90.61,394.58,4354,1290.07,28.12,3.01
+84,1990,11,Tamil Nadu,South Arcot Cuddalore,179.94,611.61,3399,941.58,28.24,4.19
+84,1991,11,Tamil Nadu,South Arcot Cuddalore,233.31,827.59,3547,883.04,28.2,4.29
+84,1992,11,Tamil Nadu,South Arcot Cuddalore,241.88,780.58,3227,767.58,27.88,4.14
+84,1993,11,Tamil Nadu,South Arcot Cuddalore,252,625,2480,1126.98,27.98,4.25
+84,1994,11,Tamil Nadu,South Arcot Cuddalore,108.94,410.99,3773,764.94,27.88,4.33
+84,1995,11,Tamil Nadu,South Arcot Cuddalore,106.43,325.44,3058,784.41,27.96,4.08
+84,1996,11,Tamil Nadu,South Arcot Cuddalore,116.4,218.63,1878,1232.26,27.73,4.22
+84,1997,11,Tamil Nadu,South Arcot Cuddalore,116.63,358.11,3070,1088.93,28.05,3.96
+84,1998,11,Tamil Nadu,South Arcot Cuddalore,110.79,370.94,3348,1096.35,28.38,4.14
+84,1999,11,Tamil Nadu,South Arcot Cuddalore,113.84,439.85,3864,824.65,27.85,4.24
+84,2000,11,Tamil Nadu,South Arcot Cuddalore,114.32,419.74,3672,885.84,28.07,4.2
+84,2001,11,Tamil Nadu,South Arcot Cuddalore,108.38,402.81,3717,919.58,28.28,4.12
+84,2002,11,Tamil Nadu,South Arcot Cuddalore,102.34,281.71,2753,757.22,28.34,4.09
+84,2003,11,Tamil Nadu,South Arcot Cuddalore,104.16,317.66,3050,795.77,28.3,4.21
+84,2004,11,Tamil Nadu,South Arcot Cuddalore,114.6,315.7,2755,1173.9,27.79,4.17
+84,2005,11,Tamil Nadu,South Arcot Cuddalore,114.29,218.35,1910,1409.7,28.24,4.11
+84,2006,11,Tamil Nadu,South Arcot Cuddalore,105.44,392.38,3721,967.42,27.98,4.04
+84,2007,11,Tamil Nadu,South Arcot Cuddalore,102.8,335.12,3260,1060.31,27.95,3.95
+84,2008,11,Tamil Nadu,South Arcot Cuddalore,107.82,223.88,2076,1232.65,27.89,3.98
+84,2009,11,Tamil Nadu,South Arcot Cuddalore,111.52,322.96,2896,1036.81,28.33,3.97
+84,2010,11,Tamil Nadu,South Arcot Cuddalore,115.82,301.51,2603,1368.07,28.18,3.87
+84,2011,11,Tamil Nadu,South Arcot Cuddalore,120.98,248.24,2052,1093.9,28.11,4.13
+84,2012,11,Tamil Nadu,South Arcot Cuddalore,111.96,339.29,3030,855.58,28.21,4.05
+84,2013,11,Tamil Nadu,South Arcot Cuddalore,127.49,565.96,4439,899.6,28.32,4.16
+84,2014,11,Tamil Nadu,South Arcot Cuddalore,134.68,641.96,4767,976.42,28.25,4.14
+84,2015,11,Tamil Nadu,South Arcot Cuddalore,139.99,507.13,3623,1511.58,28.22,3.96
+84,2016,11,Tamil Nadu,South Arcot Cuddalore,131.91,459.91,3487,790.76,28.36,3.79
+84,2017,11,Tamil Nadu,South Arcot Cuddalore,131.22,564.54,4302,1239.04,28.37,3.95
+85,1990,11,Tamil Nadu,North Arcot Vellore,34.57,100.85,2917,988.72,27.17,2.57
+85,1991,11,Tamil Nadu,North Arcot Vellore,70.44,223.1,3167,1038.94,27.28,2.52
+85,1992,11,Tamil Nadu,North Arcot Vellore,48.5,107.95,2226,750.48,26.92,2.39
+85,1993,11,Tamil Nadu,North Arcot Vellore,70,185,2643,1143.33,26.86,2.52
+85,1994,11,Tamil Nadu,North Arcot Vellore,52.68,146.06,2773,912.87,26.86,2.52
+85,1995,11,Tamil Nadu,North Arcot Vellore,60.52,168.73,2788,963.83,26.4,2.27
+85,1996,11,Tamil Nadu,North Arcot Vellore,86.85,260.57,3000,1373.94,26.62,2.37
+85,1997,11,Tamil Nadu,North Arcot Vellore,71.61,236.91,3308,1198.97,27.13,2.31
+85,1998,11,Tamil Nadu,North Arcot Vellore,77.13,295.87,3836,1021.75,27.13,2.33
+85,1999,11,Tamil Nadu,North Arcot Vellore,49.87,217.18,4355,876.27,26.69,2.38
+85,2000,11,Tamil Nadu,North Arcot Vellore,52.33,211.44,4041,969.05,26.84,2.43
+85,2001,11,Tamil Nadu,North Arcot Vellore,60.11,234.13,3895,1044.33,27.18,2.48
+85,2002,11,Tamil Nadu,North Arcot Vellore,26.29,89.86,3418,821.12,27.2,2.46
+85,2003,11,Tamil Nadu,North Arcot Vellore,30.91,108.17,3500,780.34,27.57,2.43
+85,2004,11,Tamil Nadu,North Arcot Vellore,29.4,90.15,3066,1183.71,26.41,2.38
+85,2005,11,Tamil Nadu,North Arcot Vellore,58.16,167.45,2879,1547.81,26.77,2.33
+85,2006,11,Tamil Nadu,North Arcot Vellore,41.69,129.19,3099,974.31,26.7,2.32
+85,2007,11,Tamil Nadu,North Arcot Vellore,44.33,148.37,3347,1128.21,26.58,2.25
+85,2008,11,Tamil Nadu,North Arcot Vellore,47.42,171.87,3624,1249.05,26.46,2.16
+85,2009,11,Tamil Nadu,North Arcot Vellore,39.77,135.83,3415,974.01,27.15,2.38
+85,2010,11,Tamil Nadu,North Arcot Vellore,43.22,152.83,3536,1170.19,26.99,2.27
+85,2011,11,Tamil Nadu,North Arcot Vellore,37.99,151.27,3982,1046.42,26.67,2.36
+85,2012,11,Tamil Nadu,North Arcot Vellore,35.71,152.8,4279,888.45,27.24,2.33
+85,2013,11,Tamil Nadu,North Arcot Vellore,39.37,192.5,4890,901.35,26.95,2.49
+85,2014,11,Tamil Nadu,North Arcot Vellore,36.58,194.73,5323,861.47,27.25,2.47
+85,2015,11,Tamil Nadu,North Arcot Vellore,51.77,202.22,3906,1667.01,26.88,2.27
+85,2016,11,Tamil Nadu,North Arcot Vellore,44.57,187.01,4196,718.09,27.19,2.26
+85,2017,11,Tamil Nadu,North Arcot Vellore,54.94,255.17,4645,1134.69,27.24,2.22
+86,1990,11,Tamil Nadu,Salem,30.38,101.04,3326,598.11,27.49,2.52
+86,1991,11,Tamil Nadu,Salem,67.82,229.93,3390,778.79,27.21,2.32
+86,1992,11,Tamil Nadu,Salem,56.81,191.75,3375,702.53,26.7,2.3
+86,1993,11,Tamil Nadu,Salem,75,242,3227,929.74,26.73,2.3
+86,1994,11,Tamil Nadu,Salem,67.99,236.29,3475,722.33,26.36,2.34
+86,1995,11,Tamil Nadu,Salem,66.01,227.53,3447,675.54,26.83,2.22
+86,1996,11,Tamil Nadu,Salem,45.15,169.72,3759,944.25,26.49,2.22
+86,1997,11,Tamil Nadu,Salem,46.48,187.98,4044,920.34,26.92,2.1
+86,1998,11,Tamil Nadu,Salem,48.3,213.84,4427,859.85,27.09,2.17
+86,1999,11,Tamil Nadu,Salem,47.05,199.43,4239,739.64,26.51,2.23
+86,2000,11,Tamil Nadu,Salem,45.96,201.22,4378,857.03,26.72,2.32
+86,2001,11,Tamil Nadu,Salem,46.23,204.3,4419,746.73,26.9,2.26
+86,2002,11,Tamil Nadu,Salem,11.06,39.59,3580,589.62,27.36,2.37
+86,2003,11,Tamil Nadu,Salem,13.59,43.65,3212,729.71,27.34,2.28
+86,2004,11,Tamil Nadu,Salem,27.3,96.63,3540,1036.62,26.28,2.22
+86,2005,11,Tamil Nadu,Salem,37.33,137.29,3678,1198.19,26.71,2.12
+86,2006,11,Tamil Nadu,Salem,27.48,99.81,3632,753.53,26.38,2.27
+86,2007,11,Tamil Nadu,Salem,21.71,72.08,3320,844.41,26.71,2.19
+86,2008,11,Tamil Nadu,Salem,29.93,120.38,4022,1083.29,26.02,2.07
+86,2009,11,Tamil Nadu,Salem,24.38,106.46,4367,640.66,26.99,2.32
+86,2010,11,Tamil Nadu,Salem,33.3,147.78,4438,1060.84,26.95,2.06
+86,2011,11,Tamil Nadu,Salem,27.75,125.33,4516,860.24,26.28,2.26
+86,2012,11,Tamil Nadu,Salem,12.93,52.95,4095,738.63,27.03,2.21
+86,2013,11,Tamil Nadu,Salem,20.15,97.05,4816,679.71,27.29,2.4
+86,2014,11,Tamil Nadu,Salem,19.34,102.75,5313,667.21,27.26,2.36
+86,2015,11,Tamil Nadu,Salem,24.71,122.54,4959,870.48,26.99,2.16
+86,2016,11,Tamil Nadu,Salem,18.68,94.74,5072,409.52,28.07,2.23
+86,2017,11,Tamil Nadu,Salem,18.68,94.74,5071,811.63,27.16,2.13
+88,1990,11,Tamil Nadu,Tiruchirapalli Trichy,92.68,299.42,3231,563.07,28.17,3.01
+88,1991,11,Tamil Nadu,Tiruchirapalli Trichy,113.85,416.96,3662,783.75,27.78,2.76
+88,1992,11,Tamil Nadu,Tiruchirapalli Trichy,142.7,475.39,3331,745.86,27.38,2.77
+88,1993,11,Tamil Nadu,Tiruchirapalli Trichy,136,432,3176,957.01,27.4,2.79
+88,1994,11,Tamil Nadu,Tiruchirapalli Trichy,139.72,480.72,3441,770.47,27.04,2.82
+88,1995,11,Tamil Nadu,Tiruchirapalli Trichy,119.89,341.38,2847,671.34,27.51,2.68
+88,1996,11,Tamil Nadu,Tiruchirapalli Trichy,58.58,179.68,3067,911.09,27.19,2.67
+88,1997,11,Tamil Nadu,Tiruchirapalli Trichy,67.73,223.53,3300,876.17,27.64,2.54
+88,1998,11,Tamil Nadu,Tiruchirapalli Trichy,74.09,316.52,4272,823.7,27.89,2.67
+88,1999,11,Tamil Nadu,Tiruchirapalli Trichy,80.91,354.67,4384,705.58,27.28,2.74
+88,2000,11,Tamil Nadu,Tiruchirapalli Trichy,81.18,316.77,3902,869.23,27.49,2.79
+88,2001,11,Tamil Nadu,Tiruchirapalli Trichy,72.32,296.51,4100,718.57,27.6,2.74
+88,2002,11,Tamil Nadu,Tiruchirapalli Trichy,51.75,154.95,2994,580.62,28.06,2.85
+88,2003,11,Tamil Nadu,Tiruchirapalli Trichy,42.93,126.08,2937,780.58,27.84,2.71
+88,2004,11,Tamil Nadu,Tiruchirapalli Trichy,62.18,205.4,3303,1032.05,27,2.73
+88,2005,11,Tamil Nadu,Tiruchirapalli Trichy,79.58,236.74,2975,1173.76,27.49,2.62
+88,2006,11,Tamil Nadu,Tiruchirapalli Trichy,71.72,282.44,3938,767.54,27.15,2.71
+88,2007,11,Tamil Nadu,Tiruchirapalli Trichy,61.29,227.33,3709,817.27,27.48,2.6
+88,2008,11,Tamil Nadu,Tiruchirapalli Trichy,72.53,262.38,3618,1090.22,26.84,2.47
+88,2009,11,Tamil Nadu,Tiruchirapalli Trichy,64.3,266.27,4141,669.54,27.85,2.8
+88,2010,11,Tamil Nadu,Tiruchirapalli Trichy,67.17,268.14,3992,1047.65,27.56,2.52
+88,2011,11,Tamil Nadu,Tiruchirapalli Trichy,63.94,302.48,4731,875.6,27.12,2.73
+88,2012,11,Tamil Nadu,Tiruchirapalli Trichy,45.24,138.08,3052,721.77,27.62,2.66
+88,2013,11,Tamil Nadu,Tiruchirapalli Trichy,48.05,226.63,4717,647.71,28.07,2.97
+88,2014,11,Tamil Nadu,Tiruchirapalli Trichy,51.27,240.2,4685,698.98,27.86,2.81
+88,2015,11,Tamil Nadu,Tiruchirapalli Trichy,58.57,244.21,4170,1124.57,27.46,2.53
+88,2016,11,Tamil Nadu,Tiruchirapalli Trichy,58.57,244.21,4170,476.55,28.28,2.6
+88,2017,11,Tamil Nadu,Tiruchirapalli Trichy,46.62,238.33,5112,830.86,27.85,2.58
+89,1990,11,Tamil Nadu,Thanjavur,459.42,1403.46,3055,750.39,28.59,3.16
+89,1991,11,Tamil Nadu,Thanjavur,471.62,1575.31,3340,902.93,28.24,3.08
+89,1992,11,Tamil Nadu,Thanjavur,222.22,727.98,3276,810.05,27.98,3.03
+89,1993,11,Tamil Nadu,Thanjavur,222,562,2532,1141.24,28.03,3.06
+89,1994,11,Tamil Nadu,Thanjavur,210.36,669.31,3182,820.3,27.73,3.12
+89,1995,11,Tamil Nadu,Thanjavur,188.8,528.5,2799,765.31,28.01,2.9
+89,1996,11,Tamil Nadu,Thanjavur,167.11,427.37,2557,1135.83,27.75,2.98
+89,1997,11,Tamil Nadu,Thanjavur,181.5,489.77,2698,1037.74,28.11,2.81
+89,1998,11,Tamil Nadu,Thanjavur,184.49,580.52,3147,1024.99,28.36,2.94
+89,1999,11,Tamil Nadu,Thanjavur,188.91,654.2,3463,776.73,27.88,3.05
+89,2000,11,Tamil Nadu,Thanjavur,191.8,719,3749,966.87,28.11,3.04
+89,2001,11,Tamil Nadu,Thanjavur,192.16,561.65,2923,812.3,28.24,2.98
+89,2002,11,Tamil Nadu,Thanjavur,139.19,318.33,2287,691.09,28.58,3.04
+89,2003,11,Tamil Nadu,Thanjavur,123.29,354.94,2879,865.41,28.36,2.98
+89,2004,11,Tamil Nadu,Thanjavur,160.61,439.32,2735,1216.65,27.63,2.99
+89,2005,11,Tamil Nadu,Thanjavur,154.9,399.48,2579,1387.46,28.15,2.92
+89,2006,11,Tamil Nadu,Thanjavur,164.24,598.16,3642,886.31,27.92,2.99
+89,2007,11,Tamil Nadu,Thanjavur,150.23,479.64,3193,994.26,28.06,2.85
+89,2008,11,Tamil Nadu,Thanjavur,177.09,357.16,2017,1262.43,27.56,2.76
+89,2009,11,Tamil Nadu,Thanjavur,162.94,427.14,2621,959.42,28.44,2.97
+89,2010,11,Tamil Nadu,Thanjavur,166.21,476.79,2869,1277.48,27.97,2.7
+89,2011,11,Tamil Nadu,Thanjavur,180.86,722.58,3995,1019.06,27.9,2.97
+89,2012,11,Tamil Nadu,Thanjavur,146.96,431.12,2934,858.52,28.23,2.89
+89,2013,11,Tamil Nadu,Thanjavur,167.29,831.48,4970,773.79,28.55,3.13
+89,2014,11,Tamil Nadu,Thanjavur,177.76,696.19,3916,896.37,28.38,3.03
+89,2015,11,Tamil Nadu,Thanjavur,177.43,637,3590,1427.28,28.11,2.8
+89,2016,11,Tamil Nadu,Thanjavur,177.43,637,3590,641.8,28.62,2.72
+89,2017,11,Tamil Nadu,Thanjavur,170.7,668.51,3916,1103.11,28.44,2.78
+90,1990,11,Tamil Nadu,Madurai,119.15,409.55,3437,768.94,27.62,2.32
+90,1991,11,Tamil Nadu,Madurai,102.54,363.75,3547,1153.46,27.21,2.17
+90,1992,11,Tamil Nadu,Madurai,116.33,443.03,3808,1127.82,26.75,2.19
+90,1993,11,Tamil Nadu,Madurai,118,433,3669,1313.35,26.75,2.19
+90,1994,11,Tamil Nadu,Madurai,114.96,472.7,4112,1171.7,26.1,2.1
+90,1995,11,Tamil Nadu,Madurai,88.92,266.06,2992,680.94,27.35,2.15
+90,1996,11,Tamil Nadu,Madurai,84.71,299.27,3533,1085.85,26.82,2.07
+90,1997,11,Tamil Nadu,Madurai,83.06,314.38,3785,1086.61,27,2.01
+90,1998,11,Tamil Nadu,Madurai,87.23,409.87,4699,1172.07,27.38,2.09
+90,1999,11,Tamil Nadu,Madurai,82.33,365.05,4434,1023.91,26.47,2.08
+90,2000,11,Tamil Nadu,Madurai,76.91,325,4226,1075.26,27.01,2.21
+90,2001,11,Tamil Nadu,Madurai,68.13,271.59,3986,1136.69,26.72,2.08
+90,2002,11,Tamil Nadu,Madurai,43.96,112.17,2552,860.97,27.39,2.21
+90,2003,11,Tamil Nadu,Madurai,23.93,65.02,2717,1098.93,27.2,2.07
+90,2004,11,Tamil Nadu,Madurai,60.37,196.58,3256,1371.99,26.43,2.16
+90,2005,11,Tamil Nadu,Madurai,71,234.49,3303,1506.26,26.78,2.02
+90,2006,11,Tamil Nadu,Madurai,67.23,267.52,3979,1226.18,26.39,2.12
+90,2007,11,Tamil Nadu,Madurai,61.86,214.88,3474,831.01,27.2,2.11
+90,2008,11,Tamil Nadu,Madurai,66.7,267.23,4006,1076.01,26.62,2
+90,2009,11,Tamil Nadu,Madurai,50.99,203.62,3993,648.26,27.74,2.27
+90,2010,11,Tamil Nadu,Madurai,61.06,260.06,4259,1040.77,27.56,2.04
+90,2011,11,Tamil Nadu,Madurai,65.64,304.24,4635,793.26,27.12,2.2
+90,2012,11,Tamil Nadu,Madurai,18.02,65,3607,613.11,27.82,2.19
+90,2013,11,Tamil Nadu,Madurai,35.27,163.97,4649,638.54,28.07,2.4
+90,2014,11,Tamil Nadu,Madurai,47.72,197.5,4139,841.23,27.54,2.31
+90,2015,11,Tamil Nadu,Madurai,55.98,203.67,3638,1064.33,27.12,2.1
+90,2016,11,Tamil Nadu,Madurai,55.98,203.67,3638,557.59,28.14,2.15
+90,2017,11,Tamil Nadu,Madurai,20.93,84.58,4041,983.31,27.47,2.03
+91,1990,11,Tamil Nadu,Ramananthapuram,151.27,263.44,1742,865.16,28.26,3.83
+91,1991,11,Tamil Nadu,Ramananthapuram,137.38,69.47,506,1279.9,27.71,3.79
+91,1992,11,Tamil Nadu,Ramananthapuram,146.34,224.91,1537,1236,27.4,3.77
+91,1993,11,Tamil Nadu,Ramananthapuram,144,319,2215,1484.62,27.44,3.78
+91,1994,11,Tamil Nadu,Ramananthapuram,144.74,213.84,1477,1219.65,27.05,3.79
+91,1995,11,Tamil Nadu,Ramananthapuram,128.38,13.03,101,576.64,28.26,3.82
+91,1996,11,Tamil Nadu,Ramananthapuram,132.4,148.34,1120,1031.05,27.58,3.77
+91,1997,11,Tamil Nadu,Ramananthapuram,144.63,480.49,3322,1044.34,27.88,3.54
+91,1998,11,Tamil Nadu,Ramananthapuram,132.34,377.45,2852,1210.64,28.11,3.75
+91,1999,11,Tamil Nadu,Ramananthapuram,129.88,85.2,656,1036.5,27.21,3.95
+91,2000,11,Tamil Nadu,Ramananthapuram,124.28,237.08,1908,1116.69,27.85,3.79
+91,2001,11,Tamil Nadu,Ramananthapuram,124.52,169.9,1364,1223.71,27.49,3.53
+91,2002,11,Tamil Nadu,Ramananthapuram,126.15,159.79,1267,927.01,28.08,3.72
+91,2003,11,Tamil Nadu,Ramananthapuram,121.03,20.77,172,1146.72,27.95,3.74
+91,2004,11,Tamil Nadu,Ramananthapuram,126.61,254.7,2012,1385.05,27.38,3.78
+91,2005,11,Tamil Nadu,Ramananthapuram,127.4,247.08,1939,1553.46,27.63,3.64
+91,2006,11,Tamil Nadu,Ramananthapuram,130.42,223.19,1711,1270.84,27.44,3.77
+91,2007,11,Tamil Nadu,Ramananthapuram,123.77,29.88,241,805.2,27.97,3.83
+91,2008,11,Tamil Nadu,Ramananthapuram,128.8,202.99,1576,976,27.78,3.77
+91,2009,11,Tamil Nadu,Ramananthapuram,133.89,234.88,1754,733.41,28.52,3.84
+91,2010,11,Tamil Nadu,Ramananthapuram,131.4,254,1933,1117.86,28.39,3.59
+91,2011,11,Tamil Nadu,Ramananthapuram,128.96,438.24,3398,831.55,28.21,3.78
+91,2012,11,Tamil Nadu,Ramananthapuram,116.51,68.56,588,646.08,28.66,3.9
+91,2013,11,Tamil Nadu,Ramananthapuram,114.98,33.93,295,688.35,28.76,3.93
+91,2014,11,Tamil Nadu,Ramananthapuram,116.87,423.16,3621,981.5,28.38,3.78
+91,2015,11,Tamil Nadu,Ramananthapuram,116.58,303.46,2603,1184.92,28.12,3.64
+91,2016,11,Tamil Nadu,Ramananthapuram,121.85,303.46,2490,460.29,29.08,3.55
+91,2017,11,Tamil Nadu,Ramananthapuram,126.64,303.46,2396,766.7,28.62,3.7
+92,1990,11,Tamil Nadu,Thirunelveli,101.4,398.26,3928,1295.21,27.29,4.7
+92,1991,11,Tamil Nadu,Thirunelveli,98.98,319.12,3224,1700.15,27.45,4.51
+92,1992,11,Tamil Nadu,Thirunelveli,103.61,420.35,4057,1721.37,26.94,4.62
+92,1993,11,Tamil Nadu,Thirunelveli,103,390,3786,1802.03,26.92,4.6
+92,1994,11,Tamil Nadu,Thirunelveli,102.36,488.42,4772,1626.54,26.83,4.46
+92,1995,11,Tamil Nadu,Thirunelveli,79.5,330.8,4161,1184.14,27.24,4.54
+92,1996,11,Tamil Nadu,Thirunelveli,68.04,264.55,3888,1530.91,26.94,4.59
+92,1997,11,Tamil Nadu,Thirunelveli,88.78,325.65,3668,1738.68,27.49,4.05
+92,1998,11,Tamil Nadu,Thirunelveli,91.78,413.41,4504,2107.32,27.53,4.55
+92,1999,11,Tamil Nadu,Thirunelveli,86.32,390.67,4526,1677.23,26.79,4.74
+92,2000,11,Tamil Nadu,Thirunelveli,76.29,338.96,4443,1295.16,27.25,4.8
+92,2001,11,Tamil Nadu,Thirunelveli,71.98,290.13,4031,2037.83,27.03,4.43
+92,2002,11,Tamil Nadu,Thirunelveli,66.21,266.29,4022,1409.92,27.47,4.59
+92,2003,11,Tamil Nadu,Thirunelveli,52.47,197.85,3771,1383.74,27.56,4.61
+92,2004,11,Tamil Nadu,Thirunelveli,86.83,358.92,4134,1874.15,27.25,4.82
+92,2005,11,Tamil Nadu,Thirunelveli,86.4,309.07,3577,1907.81,27.36,4.41
+92,2006,11,Tamil Nadu,Thirunelveli,91.88,385.28,4193,2087.56,27.1,4.56
+92,2007,11,Tamil Nadu,Thirunelveli,83.71,323.94,3870,1270.2,27.25,4.51
+92,2008,11,Tamil Nadu,Thirunelveli,91.32,374.21,4098,1334.69,27.34,4.4
+92,2009,11,Tamil Nadu,Thirunelveli,85.99,355.88,4139,1023.18,27.5,4.5
+92,2010,11,Tamil Nadu,Thirunelveli,79.76,351.82,4411,1182.8,27.52,4.53
+92,2011,11,Tamil Nadu,Thirunelveli,17.68,85.77,4851,879.69,27.57,4.6
+92,2012,11,Tamil Nadu,Thirunelveli,45.4,182.67,4024,764.68,27.74,4.71
+92,2013,11,Tamil Nadu,Thirunelveli,62.28,362.99,5828,1025.51,27.53,4.62
+92,2014,11,Tamil Nadu,Thirunelveli,84.82,433.22,5108,1244.2,27.56,4.51
+92,2015,11,Tamil Nadu,Thirunelveli,98.51,488.45,4958,1434.88,27.67,4.13
+92,2016,11,Tamil Nadu,Thirunelveli,29.88,105.19,3520,672.19,27.77,4.36
+92,2017,11,Tamil Nadu,Thirunelveli,63.31,294.21,4647,1136.91,27.61,4.41
+94,1990,11,Tamil Nadu,Kanyakumari,41.23,127.82,3100,1295.21,27.29,4.7
+94,1991,11,Tamil Nadu,Kanyakumari,40.57,143.22,3530,1700.15,27.45,4.51
+94,1992,11,Tamil Nadu,Kanyakumari,38.79,118.92,3066,1721.37,26.94,4.62
+94,1993,11,Tamil Nadu,Kanyakumari,42,142,3381,1802.03,26.92,4.6
+94,1994,11,Tamil Nadu,Kanyakumari,37.57,151.65,4036,1626.54,26.83,4.46
+94,1995,11,Tamil Nadu,Kanyakumari,36.02,148.73,4129,1184.14,27.24,4.54
+94,1996,11,Tamil Nadu,Kanyakumari,33.66,138.93,4127,1530.91,26.94,4.59
+94,1997,11,Tamil Nadu,Kanyakumari,31.24,118.64,3798,1738.68,27.49,4.05
+94,1998,11,Tamil Nadu,Kanyakumari,32,152.8,4775,2107.32,27.53,4.55
+94,1999,11,Tamil Nadu,Kanyakumari,31.48,149.48,4748,1677.23,26.79,4.74
+94,2000,11,Tamil Nadu,Kanyakumari,28.59,135,4722,1295.16,27.25,4.8
+94,2001,11,Tamil Nadu,Kanyakumari,28.23,121.39,4300,2037.83,27.03,4.43
+94,2002,11,Tamil Nadu,Kanyakumari,26.05,98.47,3780,1409.92,27.47,4.59
+94,2003,11,Tamil Nadu,Kanyakumari,17.32,52.9,3054,1383.74,27.56,4.61
+94,2004,11,Tamil Nadu,Kanyakumari,22.02,86.49,3928,1874.15,27.25,4.82
+94,2005,11,Tamil Nadu,Kanyakumari,21.71,82.52,3801,1907.81,27.36,4.41
+94,2006,11,Tamil Nadu,Kanyakumari,21.41,94.13,4397,2087.56,27.1,4.56
+94,2007,11,Tamil Nadu,Kanyakumari,20.35,90.21,4433,1270.2,27.25,4.51
+94,2008,11,Tamil Nadu,Kanyakumari,18.19,83.66,4599,1334.69,27.34,4.4
+94,2009,11,Tamil Nadu,Kanyakumari,17.31,76.24,4404,1023.18,27.5,4.5
+94,2010,11,Tamil Nadu,Kanyakumari,16.99,80.39,4732,1182.8,27.52,4.53
+94,2011,11,Tamil Nadu,Kanyakumari,16.62,90.11,5422,879.69,27.57,4.6
+94,2012,11,Tamil Nadu,Kanyakumari,12.41,57.88,4664,764.68,27.74,4.71
+94,2013,11,Tamil Nadu,Kanyakumari,13.62,66.7,4897,1025.51,27.53,4.62
+94,2014,11,Tamil Nadu,Kanyakumari,13.18,66.94,5079,1244.2,27.56,4.51
+94,2015,11,Tamil Nadu,Kanyakumari,12.96,55.79,4305,1434.88,27.67,4.13
+94,2016,11,Tamil Nadu,Kanyakumari,12.16,48.67,4004,672.19,27.77,4.36
+94,2017,11,Tamil Nadu,Kanyakumari,9.63,33.03,3431,1136.91,27.61,4.41
