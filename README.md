@@ -63,7 +63,7 @@ Thanks to [@Sundeep Reddy Mallu](https://www.linkedin.com/in/sundeeprm/) and the
 📬 Connect
 
 Want to collaborate or learn more?  
-🔗 [LinkedIn Post](#)  
+🔗 [LinkedIn Post](https://www.linkedin.com/posts/sivaraj-pinnaparaju-06a489261_climatechange-riceyield-datascience-activity-7328707245972602880-OFe0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBSBRIBy2F60gUaOlsFrrnd4hLhjkm_fNM)  
 📧 pinnaparajusivaraj@gmail.com
 
 📜 License
